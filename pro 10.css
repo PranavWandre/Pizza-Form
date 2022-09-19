@@ -1,0 +1,45 @@
+#fieldsetmain{
+    border-radius: 4%;
+    background-color: aqua;
+    box-shadow: 9px 9px 9px;
+    width: 400px;
+    border: none;
+}
+#PizzaForm{
+    text-align: center;
+    
+}
+#EntermyInformation{
+    color: red;
+    box-shadow: 4px 4px 2px blue;
+    border-radius: 20px;
+    border: none;
+    padding: 9px;
+    width: 170px;
+    margin-left: 110px;
+
+}
+#Phone{
+    margin-left: 29px;
+    height: 18px;
+    outline: none;
+    
+}
+#name{
+    height: 18px;
+    outline: none;
+}
+#PersonalInfo{
+     border: 1px solid red;
+     
+}
+#Pizza{
+    border: 1px solid red;
+}
+#img{
+     height: 80px;
+     width: 80px;
+     border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
